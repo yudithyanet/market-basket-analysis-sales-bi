@@ -1,10 +1,18 @@
 
+## 📌 Descripción del Proyecto
+
+Este proyecto tiene como objetivo transformar datos transaccionales de ventas en información estratégica para la toma de decisiones comerciales. A través de un flujo completo de análisis de datos —desde la generación y limpieza de datos hasta su visualización— se identifican patrones de consumo, productos clave y oportunidades de **cross-selling**.
+
+El proyecto simula un caso real de un supermercado, integrando herramientas y metodologías utilizadas en entornos profesionales de análisis de datos.
+
+
+## 🎯 Objetivos
+
 * Analizar el comportamiento de compra de los clientes.
 * Identificar productos líderes y de baja rotación.
 * Detectar combinaciones frecuentes de productos comprados en conjunto.
 * Evaluar oportunidades para aumentar el ticket promedio.
 * Apoyar la toma de decisiones comerciales basadas en datos.
-
 
 ## 🧠 Metodología
 
